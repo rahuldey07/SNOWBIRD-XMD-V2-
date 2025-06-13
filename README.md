@@ -1,5 +1,17 @@
 # ❄️ SNOWBIRD-XMD V2
 
+
+<!-- Banner Image -->
+<p align="center">
+  <a href="h">
+    <img src="https://files.catbox.moe/nfjmvf.jpg" width="100%" height="auto">
+  </a>
+</p>
+
+
+
+
+
 ![Snowbird Banner](https://img.shields.io/badge/SNOWBIRD--XMD%20V2-AI%20WhatsApp%20Bot-blueviolet?style=for-the-badge&logo=whatsapp)
 
 **SNOWBIRD-XMD V2** is a next-generation WhatsApp multi-purpose AI bot, professionally built and deployed through an intuitive control panel. With powerful features, robust security, and seamless user experience, it’s designed for developers, admins, and everyday users alike.
