@@ -99,7 +99,7 @@ We appreciate every user, contributor, and supporter who helps make SNOWBIRD-XMD
 
 ---
 
-**thanks to  ❤️  [Pkdriller](https://github.com/Pkdriller) & Contributors**
+**thanks to  ❤️  [dev Pkdriller](https://github.com/Pkdriller)  ★★★★★**
 
 ```
 MIT License
