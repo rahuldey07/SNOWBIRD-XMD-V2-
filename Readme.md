@@ -1,7 +1,4 @@
-Here is your updated README.md customized for SNOWBIRD-XMD-V2, with the requested image URL and all references changed accordingly:
 
-
----
 
 # ❄️ SNOWBIRD-XMD-V2
 
@@ -30,6 +27,7 @@ Here is your updated README.md customized for SNOWBIRD-XMD-V2, with the requeste
       </a>
     </td>
     <td align="center" width="50%">
+      <br />
       <h3>Deploy</h3>
       <p>Deploy to your preferred platform</p>
       <a href='https://dashboard.heroku.com/new?template=https://github.com/SNOWBIRD0074/SNOWBIRD-XMD-V2-/tree/main?tab=readme-ov-file' target="_blank">
