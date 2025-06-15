@@ -22,7 +22,7 @@
     <td align="center" width="100%">
       <h3>🗂 Download ZIP</h3>
       <p>Download the bot source code directly</p>
-      <a href="https://github.com/SNOWBIRD0074/SNOWBIRD-XMD-V2-/tree/main#/archive/refs/heads/main.zip">
+      <a href="https://github.com/SNOWBIRD0074/SNOWBIRD-XMD-V2-/archive/refs/heads/main.zip">
         <img src="https://img.shields.io/badge/ZIP-purple?style=for-the-badge" alt="Download ZIP">
       </a>
     </td>
