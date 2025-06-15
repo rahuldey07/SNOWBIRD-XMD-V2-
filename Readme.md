@@ -52,8 +52,8 @@
 ### 🙏 Special Thanks
 ---
 
-### 🙏 Special Thanks
+### 🙏 Special Thanks 
 
 <a href="https://github.com/sesco001">
-  <img src="https://img.shields.io/badge/Thanks-sesco001-blueviolet?style=for-the-badge&logo=github" alt="Thanks to sesco001" />
+  <img src="https://img.shields.io/badge/Thanks-sesco001-blueviolet?style=for-the-badge&logo=github" alt="follow to sesco001" />
 </a>
