@@ -47,11 +47,8 @@
 <div align="center">
   <h3>🌟 Our Supporters</h3>
   
-  <a href="https://github.com/Digitexmedia/SNOWBIRD-XMD-V2/stargazers">
-    <img src="http://reporoster.com/stars/dark/Digitexmedia/SNOWBIRD-XMD-V2" alt="Stargazers">
-  </a>
-  
-  <a href="https://github.com/Digitexmedia/SNOWBIRD-XMD-V2/network/members">
-    <img src="http://reporoster.com/forks/dark/Digitexmedia/SNOWBIRD-XMD-V2" alt="Forks">
-  </a>
-</div>
+  ---
+
+### 🙏 Special Thanks
+
+Huge thanks to [@sesco001](https://github.com/sesco001) for inspiration and contributions that helped shape this project.
